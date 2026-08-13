@@ -54,3 +54,4 @@ backend/
 - Portais estaduais mudam URL/layout e bloqueiam scraping com frequência — cada UF retorna erro tratado.
 - GO, MG, PR, RS e SP exigem captcha/login e ficam fora do escopo de scraping puro.
 - RJ/SC exigem `playwright install chromium`.
+- Estado atual e diagnóstico completo de cada portal: veja [`STATUS.md`](STATUS.md).
